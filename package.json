@@ -1,0 +1,12 @@
+{
+  "name": "pixivicspider",
+  "version": "0.1.0",
+  "description": "PixivicSpider",
+  "main": "index.js",
+  "bin": "index.js",
+  "author": "YinsTeam",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
